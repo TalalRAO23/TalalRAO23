@@ -62,6 +62,10 @@ Some of the projects I've worked on include:
 * 🥦 **Grocery CRUD Application** — A simple MERN application demonstrating complete Create, Read, Update, and Delete operations.
 * 💼 **Portfolio Website** — A responsive personal portfolio showcasing my skills, projects, and experience.
 
+## 📜 Certifications
+├── IBM Full Stack JavaScript
+└── Other certifications
+
 ### 📚 Currently Learning
 
 I'm currently focused on improving my **full-stack development skills**, especially:
