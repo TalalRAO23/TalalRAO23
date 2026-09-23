@@ -1,8 +1,8 @@
 # Hi, I'm Talal Afzaal 👋
 
-### MERN Stack Developer | Computer Science Student
+### MERN Stack Developer
 
-I'm a Computer Science student and a **MERN Stack Developer** who enjoys building modern, responsive, and practical web applications.
+I'm a **MERN Stack Developer** who enjoys building modern, responsive, and practical web applications.
 
 I work mainly with **React.js, Node.js, Express.js, and MongoDB**, and I'm continuously improving my skills by building real-world projects and learning new technologies.
 
